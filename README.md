@@ -27,5 +27,5 @@ Proje hiçbir harici kütüphaneye bağımlı değildir, sadece standart Python 
 
 1. Depoyu bilgisayarınıza indirin:
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/slowloris-asyncio-simulator.git
-   cd slowloris-asyncio-simulator
+  git clone https://github.com/muhammedemrealbayrak/Slowloris-Test-Script.git
+cd Slowloris-Test-Script

@@ -25,7 +25,6 @@ Geleneksel senkron soket yönetimindeki darboğazları gidermek için tamamen **
 
 Proje hiçbir harici kütüphaneye bağımlı değildir, sadece standart Python kütüphanelerini kullanır.
 
-1. Depoyu bilgisayarınıza indirin:
-   ```bash
-  git clone https://github.com/muhammedemrealbayrak/Slowloris-Test-Script.git
+# 1. Depoyu bilgisayarınıza indirin:
+git clone https://github.com/muhammedemrealbayrak/Slowloris-Test-Script.git
 cd Slowloris-Test-Script
